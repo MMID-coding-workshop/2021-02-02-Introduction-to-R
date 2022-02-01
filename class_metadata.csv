@@ -1,0 +1,21 @@
+Number,Student_name,Student_number,Age,Year_of_study,Phone,Address,Address_city,Major
+1,Mew,7991102,28,4,111-111-1111,111 Pokemon Street,Pallet Town,Biology
+2,Garchomp,7980475,18,5,111-111-1112,112 Pokemon Street,Pallet Town,Biology
+3,Kanto Starters,7779385,19,3,111-111-1113,113 Pokemon Street,Pallet Town,Microbiology
+4,Metagross,7620583,24,3,111-111-1114,114 Pokemon Street,Viridian City,Microbiology
+5,Zoroark,8103955,25,3,111-111-1115,115 Pokemon Street,Pewter City,Microbiology
+6,Tyranitar,8502931,21,4,111-111-1116,116 Pokemon Street,Viridian City,Medical Microbiology
+7,Eevee,8110291,29,4,111-111-1117,117 Pokemon Street,Viridian City,Mathematics
+8,Snorlax,8110429,30,5,111-111-1118,118 Pokemon Street,Pewter City,Mathematics
+9,Volcarona,7889281,34,4,111-111-1119,119 Pokemon Street,Lavender Town,Statistics
+10,Mewtwo,8719237,21,3,111-111-1120,120 Pokemon Street,Lavender Town,Medical Microbiology
+11,Charizard,7817241,22,3,111-111-1121,121 Pokemon Street,Lavender Town,Medical Microbiology
+12,Milotic,7992930,21,3,111-111-1122,122 Pokemon Street,Celadon City,Medical Microbiology
+13,Kyurem,7293148,24,3,111-111-1123,123 Pokemon Street,Celadon City,Medical Microbiology
+14,Haxorus,7920394,31,3,111-111-1124,124 Pokemon Street,Celadon City,Bioinformatics
+15,Arceus,7329523,19,4,111-111-1125,125 Pokemon Street,Saffron City,Bioinformatics
+16,Ninetales,7978149,21,4,111-111-1126,126 Pokemon Street,Saffron City,Statistics
+17,Espeon,7918938,24,4,111-111-1127,127 Pokemon Street,Cerulean City,Bioinformatics
+18,Golurk,7083872,23,4,111-111-1128,128 Pokemon Street,Cerulean City,Chemistry
+19,Lapras,7051934,22,5,111-111-1129,129 Pokemon Street,Vermillion City,Biochemistry
+20,Pikachu,7094583,24,5,111-111-1130,130 Pokemon Street,Vermillion City,Biochemistry
