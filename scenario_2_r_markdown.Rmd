@@ -262,7 +262,7 @@ In upcoming R workshops, you'll be able to learn in-depth on how to do:
 
 ## References
 
-If you want to practice R markdown in detail, here is a useful resource:
+If you want to practice R markdown in detail, here are helpful resources:
 
 1. Yihui Xie, Christophe Dervieux, Emily Riederer. 2022. R Markdown Cookbook. Available at https://bookdown.org/yihui/rmarkdown-cookbook/.
 
